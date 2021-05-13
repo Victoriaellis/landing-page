@@ -1,0 +1,22 @@
+.banner {
+  background-image: url("/../images/flowers.jpeg");
+  color: black;
+  height: 600px;
+  background-size: cover;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+}
+
+.banner  p {
+  color:white;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 40px;
+  text-align: center;
+}
+
+
